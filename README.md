@@ -1,3 +1,15 @@
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+
+## Installation <a name="installation"></a>
+
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
+## Project Motivation<a name="motivation"></a>
+
 # Starbucks Capstone Challenge
 
 A model that classifies offers success.
@@ -16,7 +28,7 @@ Keep in mind as well that someone using the app might make a purchase through th
 
 
 
-# Data Sets
+## File Descriptions <a name="files"></a>
 
 The data is contained in three files:
 
