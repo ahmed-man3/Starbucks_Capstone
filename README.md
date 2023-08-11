@@ -12,7 +12,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 # Starbucks Capstone Challenge
 
-A model that classifies offers success.
+# Read more in [this](https://medium.com/@ahmed.saad.q/starbucks-offers-how-successful-will-it-be-b2de02eb9b3c) blog post 
+
+A model that classifies offers success. 
 
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. 
 
