@@ -3,6 +3,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
+4. [Licensing, Authors, Acknowledgements](#Acknowledgements)
 
 ## Installation <a name="installation"></a>
 
@@ -60,3 +61,7 @@ Here is the schema and explanation of each variable in the files:
 * person (str) - customer id
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
+
+## Licensing, Authors, Acknowledgements <a name="Acknowledgements"></a>
+
+Must give credit to Starbucks and Udacity for the data. Feel free to use the code here as you would like!
